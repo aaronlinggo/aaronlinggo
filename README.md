@@ -2,6 +2,21 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=32&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+%2C+I'm+Aaron"> </p>
 <!-- [![Typing SVG]()](https://git.io/typing-svg) -->
 
+### `me.json`
+```json
+{
+  "name": "Aaron Linggo Satria",
+  "age": "20",
+  "country": "Indonesia",
+  "language": {
+    "speaking": ["Indonesia", "English"],
+    "programming": ["JavaScript", "C++", "C#", "Java", "Laravel", "Vue", "PHP"],
+  },
+  "hobbies" : ["Programming", "Computers", "Gaming"],
+}
+```
+
+
 <!-- Hi there 👋 -->
 
 <!--
