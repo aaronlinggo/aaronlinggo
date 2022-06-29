@@ -15,7 +15,7 @@
   "hobbies" : ["Programming", "Computers", "Gaming"],
 }
 ```
-[![Visits Badge](https://badges.pufler.dev/visits/aaronlinggo/aaronlinggo)]
+[![Visits Badge](https://badges.pufler.dev/visits/aaronlinggo/aaronlinggo)](https://github.com/aaronlinggo)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aaronlinggo/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=red&color=0D76A8)](http://www.instagram.com/aaronlinggo)
