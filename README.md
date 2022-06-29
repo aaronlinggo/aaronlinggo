@@ -1,3 +1,7 @@
+<!-- SVG Typing Animation  -->
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=9AA6B2&size=32&center=true&vCenter=true&lines=%F0%9F%91%8B+Hi+%2C+I'm+Aaron"> </p>
+<!-- [![Typing SVG]()](https://git.io/typing-svg) -->
+
 <!-- Hi there 👋 -->
 
 <!--
