@@ -15,7 +15,10 @@
   "hobbies" : ["Programming", "Computers", "Gaming"],
 }
 ```
-
+[![Visits Badge](https://badges.pufler.dev/visits/aaronlinggo/aaronlinggo)]
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aaronlinggo/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=red&color=0D76A8)](http://www.instagram.com/aaronlinggo)
 
 <!-- Hi there 👋 -->
 
@@ -67,10 +70,11 @@ src="https://img.shields.io/github/followers/aaronlinggo?logo=github&style=for-t
 </p>
 
  -->
-### Socials
+<!-- ### Socials
 
 <p align="left"> <a href="https://www.github.com/aaronlinggo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aaronlinggo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aaronlinggo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+-->
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -78,7 +82,3 @@ src="https://img.shields.io/github/followers/aaronlinggo?logo=github&style=for-t
 <a href="http://www.github.com/aaronlinggo"><img src="https://github-readme-stats.vercel.app/api?username=aaronlinggo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aaronlinggo's GitHub stats" /></a>
 
 <a href="http://www.github.com/aaronlinggo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronlinggo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
