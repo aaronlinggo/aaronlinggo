@@ -10,7 +10,7 @@
   "country": "Indonesia",
   "language": {
     "speaking": ["Indonesia", "English"],
-    "programming": ["JavaScript", "C++", "C#", "Java", "Laravel", "Vue", "PHP"],
+    "programming": ["JavaScript", "C++", "C#", "Java", "Laravel", "Vue", "PHP", "Express.Js", "NodeJS"],
   },
   "hobbies" : ["Programming", "Computers", "Gaming"],
 }
